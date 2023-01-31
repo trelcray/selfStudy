@@ -1,0 +1,3 @@
+npx jest --init
+npm i @swc/core @swc/jest  @babel/eslint-parser @babel/preset-env @babel/preset-react ts-node -D
+

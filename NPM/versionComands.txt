@@ -1,0 +1,7 @@
+npm outdated -- ver as atualizações disponíveis
+npm upgrade -- atualizar para a recomendada
+npm pacote@lasted -- atualizar para a última versão disponível
+
+npm i -- instalar dependência
+npm un -- desinstalar dependência
+

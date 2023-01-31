@@ -1,0 +1,5 @@
+::before -- coloca algo depois se utilizar o css content: ""
+
+::after -- coloca algo antes se utilizar o css content: ""
+
+::first-line -- pega a primeira linha de um texto

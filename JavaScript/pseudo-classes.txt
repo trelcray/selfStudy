@@ -1,0 +1,9 @@
+:first-child  -- pega o primeiro filho
+
+:nth-of-type(1)  -- Pega o elemento escolhido
+
+:nth-child(2)  -- Pega o elemento contando todos filhos do elemento
+
+ul li:nth-child(odd) -- Pega todos elementos filhos que são impar
+
+ul li:nth-child(even) -- Pega todos elementos filhos que são pares
